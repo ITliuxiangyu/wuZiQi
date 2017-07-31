@@ -1,0 +1,11 @@
+{
+	"index.html": {
+		"resources": [
+			"css/index.css",
+			"js/lm.js",
+			"js/socket.io.js",
+			"js/jquery-3.0.0.min.js",
+			"js/index1.js"
+		]
+	}
+}
